@@ -1,0 +1,2 @@
+# lodashPractice
+Practicing with lodash
